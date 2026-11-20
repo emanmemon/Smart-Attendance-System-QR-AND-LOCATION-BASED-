@@ -288,21 +288,9 @@ flowchart LR
 
 ---
 
-## 📅 10. Project Timeline
-
-| Week | Task |
-| :---: | :--- |
-| **Week 1** | Requirement analysis, UI design, Firebase setup |
-| **Week 2** | Login, register, splash, role-based dashboards |
-| **Week 3** | Course creation, joining, QR session screen |
-| **Week 4** | QR scanning, location and fake GPS verification |
-| **Week 5** | Reports, CSV export, attendance percentage |
-| **Week 6** | Security rules, testing on real devices, bug fixing |
-| **Week 7** | Documentation, screenshots, final presentation |
-
 ---
 
-## 🏆 11. Expected Outcomes
+## 🏆 10. Expected Outcomes
 
 - A working Android application that records attendance in under a minute for an entire class.
 - Significant reduction in proxy attendance through rotating QR codes and location checks.
@@ -311,7 +299,7 @@ flowchart LR
 
 ---
 
-## 🚧 12. Limitations and Future Work
+## 🚧 11. Limitations and Future Work
 
 - The system needs an internet connection and GPS on both devices.
 - GPS accuracy can drop inside large buildings, so the distance limit may need adjusting.
@@ -319,7 +307,7 @@ flowchart LR
 
 ---
 
-## 🏁 13. Conclusion
+## 🏁 12. Conclusion
 
 Smart Attendance System replaces slow and unreliable manual attendance with a fast, secure, and easy-to-use mobile solution. By combining rotating QR codes, GPS verification, and cloud storage, it addresses the real problems of proxy attendance and record keeping, while staying simple enough to be built with standard Android tools and Firebase.
 
