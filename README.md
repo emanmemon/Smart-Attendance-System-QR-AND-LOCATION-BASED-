@@ -37,10 +37,9 @@
 - [7. Requirements](#-7-requirements)
 - [8. Development Methodology](#-8-development-methodology)
 - [9. Testing Plan](#-9-testing-plan)
-- [10. Project Timeline](#-10-project-timeline)
-- [11. Expected Outcomes](#-11-expected-outcomes)
-- [12. Limitations and Future Work](#-12-limitations-and-future-work)
-- [13. Conclusion](#-13-conclusion)
+- [10. Expected Outcomes](#-11-expected-outcomes)
+- [11. Limitations and Future Work](#-11-limitations-and-future-work)
+- [12. Conclusion](#-13-conclusion)
 - [References](#-references)
 - [Appendices](#-appendices)
 
